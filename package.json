@@ -1,0 +1,26 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blaxcull/chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Blaxcull/chat-app/issues"
+  },
+  "homepage": "https://github.com/Blaxcull/chat-app#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "http": "^0.0.1-security"
+  }
+}
